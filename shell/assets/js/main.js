@@ -1,4 +1,4 @@
-import { Shell } from '../../shell/Shell.js';
+import { Shell } from '../../Shell.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     const shell = new Shell();
